@@ -1,33 +1,29 @@
-👋 Hi there, I'm Salman Khan!
-📌 About Me:
+### Hi there 👋, my name is Salman Khan!
+#### I am Lead Python Developer & ECCMA Certified ISO 8000 Master Data Quality Manager 
+![I am Lead Python Developer & ECCMA Certified ISO 8000 Master Data Quality Manager ](https://media.licdn.com/dms/image/D5616AQF78Xg6hQyspQ/profile-displaybackgroundimage-shrink_350_1400/0/1708748828394?e=1714003200&v=beta&t=zekl1Iu18QwIz-8pvZazIkm9xq8-PulpvGFZpQ0g1_Q)
 
 🎓 Master of Science in Information Quality from the University of Arkansas at Little Rock.
 🌟 Data Analyst & Lead Python Developer with a passion for data warehousing, analysis, and development.
 💼 Currently working at the University of Arkansas at Little Rock - Career Services.
 🏆 Proficient in Python, .NET/C#, SQL, Excel, and data modeling. Experienced in PowerBI, Tableau, OLAP, MDX querying, and ETL tools like SSIS.
 📈 Strong understanding of data management structures and self-service reporting.
-🔭 Professional Experience:
 
-Leading data warehousing and integration projects at the University of Arkansas.
-Developing Python applications and working on data integrations using .NET APIs.
-Specializing in data querying, manipulation, and analysis with SQL.
-🌱 Projects:
+Skills: Python / MySQL / Tableau / PowerBI / Data Analysis / Master Data Management
 
-Name & Address Parser (US Census Bureau): Developed a tool for parsing unstructured address strings using active learning.
-Advanced Entity Resolution & Record Linkage (UALR): Created a system for accurately identifying and linking records across multiple data sources.
-👯 Looking to Collaborate:
-
-Open to collaborating on projects involving data analysis, machine learning, and Python development.
-Keen on contributing to open-source projects related to data quality and management.
-📫 How to Reach Me:
-
-📧 Email: salmankhandswork@gmail.com
-🖇️ [LinkedIn](https://www.linkedin.com/in/salman-khan-070156157/)
-💡 Hobbies:
-      Participating in coding challenges, reading technical literature, engaging in gaming, and creating data visualization art.
-🔐 Declaration:
-      Information provided here is accurate and true to the best of my knowledge.
+- 🔭 I’m currently working on US Address Parser & Data Washing Machine 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Salmankhan7432)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/salman-khan-070156157//)  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Salmankhan7432)](https://github.com/anuraghazra/github-readme-stats)
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Salmankhan7432)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salmankhan7432)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Salmankhan7432&show_icons=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/Salmankhan7432)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Salmankhan7432)  
+
