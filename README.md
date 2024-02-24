@@ -27,4 +27,7 @@ Keen on contributing to open-source projects related to data quality and managem
       Participating in coding challenges, reading technical literature, engaging in gaming, and creating data visualization art.
 🔐 Declaration:
       Information provided here is accurate and true to the best of my knowledge.
+
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Salmankhan7432)](https://github.com/anuraghazra/github-readme-stats)
