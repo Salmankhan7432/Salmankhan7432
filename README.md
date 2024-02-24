@@ -23,7 +23,5 @@ Skills: Python / MySQL / Tableau / PowerBI / Data Analysis / Master Data Managem
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Salmankhan7432&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/Salmankhan7432)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Salmankhan7432)  
 
