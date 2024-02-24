@@ -1,4 +1,5 @@
 👋 Hi there, I'm Salman Khan!
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Salmankhan7432)](https://github.com/anuraghazra/github-readme-stats)
 📌 About Me:
 
 🎓 Master of Science in Information Quality from the University of Arkansas at Little Rock.
