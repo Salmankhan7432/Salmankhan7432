@@ -10,7 +10,7 @@
 
 Skills: Python / MySQL / Tableau / PowerBI / Data Analysis / Master Data Management
 
-- 🔭 I’m currently working on US Address Parser & Data Washing Machine 
+- 🔭 I’m currently working on US Address Parser for US Census Bureau & Data Washing Machine Analytics for Pilog Group in Collab with Infromation Science Department.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Salmankhan7432)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/salman-khan-070156157//)  
